@@ -14,4 +14,4 @@ Welcome to the Excel Data Analysis Practice repository! This space is designed t
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/ExcelDataAnalysisPractice.git
+   git clone https://github.com/Barnakghosh07/ExcelAnalyticsPlayground.git
